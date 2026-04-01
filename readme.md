@@ -15,10 +15,10 @@
 
 --- -->
 
-### Current Focus:
+### 📚 Current Focus:
 - Applying Machine Learning through different hands-on projects
-- Exploring computer vision and control systems
-- Building interactive applications to solve real-world problems
+- Exploring computer vision and TinyML/Edge AI
+- Building interactive applications to solve problems
 
 ---
 
@@ -68,22 +68,11 @@
 
 ---
 
-<h3 align="left">Let's Connect!</h3>
+### Let's Connect!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/haroonwaqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haroon waqar" height="30" width="40" /></a>  
 <a href="https://leetcode.com/u/shazam09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haroon waqar" height="30" width="40" /></a>
 </p>
 
-<!-- I'm always open for collaboration & learning! -->
-
-<!-- 
-<p  align="left">
-    <a href="https://visitor-badge.laobi.icu/badge?page_id=haroonwaqar/haroonwaqar" target="_blank" rel="noreferrer">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=haroonwaqar/haroonwaqar" alt="haroonwaqar"/>
-    </a>       
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haroonwaqar&label=Views&color=blue&style=for-the-badge&logo=github" alt="Visitor Badge" />
-</p> -->
+I'm always open for collaboration & learning!
