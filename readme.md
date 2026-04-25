@@ -15,10 +15,10 @@
 
 --- -->
 
-### 📚 Current Focus:
-- Applying Machine Learning through different hands-on projects
-- Exploring computer vision and TinyML/Edge AI
-- Building interactive applications to solve problems
+### Current Focus:
+- Engineering end-to-end machine learning workflows, focusing on data extraction, feature engineering, and pipeline optimization.
+- Developing Computer Vision and Edge AI solutions for real-world deployment
+- Expanding my knowledge in Deep Learning and AI by building systems to tackle real-world problems.
 
 ---
 
