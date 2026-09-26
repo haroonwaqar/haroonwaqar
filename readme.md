@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=abc&center=true&vCenter=true&width=1000&lines=Hi+there+👋;This+is+Haroon+🙂‍↕️;👾+Welcome+to+my+GitHub+profile!+👾)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=abc&center=true&vCenter=true&width=1000&lines=Hi+there+👋;This+is+Haroon+🙂‍↕️;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <div align="center">
   <h3> Computer Engineering student at GIKI</h3>
@@ -8,16 +8,10 @@
 
 ---
 
-<!-- ### What you'll find here:
-- AI/ML learning projects as I explore Transformers
-- Random experiments and personal builds
-- AI Application Tools (RAG, TinyML, and more)
-
---- -->
 
 ### Current Focus:
-- Engineering end-to-end machine learning workflows, focusing on data extraction, feature engineering, and pipeline optimization.
-- Developing Computer Vision and Edge AI solutions for real-world deployment
+- Developing Computer Vision and Edge AI solutions for real-world deployment.
+- Engineering end-to-end machine learning workflows and pipeline optimization.
 - Expanding my knowledge in Deep Learning and AI by building systems to tackle real-world problems.
 
 ---
