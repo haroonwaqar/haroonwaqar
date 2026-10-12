@@ -11,6 +11,7 @@
 - 🎓 Computer Engineering major + AI minor @ Ghulam Ishaq Khan Institute · May 2027
 - 💻 Embedded System Intern @ Forward Sports — ESP32, Sensors, IoT, Computer Vision, Edge Processing
 - 💼 Data Science Intern @ 10Pearls — Machine Learning, API, Databases, GitHub Actions
+- ⛓️ Product Intern @ Rolu Labs — World Chain, Web3, Exchanges, dApp, Development
 - 🛠️ Building Backend Systems, Computer Vision Product, and Real-Time IoT experiences
 - 🌱 Interested in Computer Vision on Edge Devices, IoT Automation, and LLM-powered Products
 
